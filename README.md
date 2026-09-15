@@ -31,8 +31,6 @@ A simple console-based Hangman game where the player attempts to guess a randoml
 - User input
 
 **Run:**
-
-```bash
 python hangman.py
 
 
